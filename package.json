@@ -1,0 +1,25 @@
+{
+  "name": "netspeedchecker",
+  "version": "1.0.0",
+  "description": "check internet connection speed, IP address, ISP and Ping time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "netspeedchecker": "index.js"
+  },
+  "keywords": [
+    "internetspeedtest",
+    "netspeedchecker",
+    "speedtest",
+    "netspeedometer"
+  ],
+  "author": "Naveen Karippai",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "progress": "^1.1.8",
+    "speedtest-net": "^1.1.0"
+  }
+}
