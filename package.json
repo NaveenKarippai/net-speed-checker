@@ -1,6 +1,6 @@
 {
   "name": "netspeedchecker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check internet connection speed, IP address, ISP and Ping time",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,10 @@
     "speedtest",
     "netspeedometer"
   ],
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/NaveenKarippai/net-speed-checker"
+  },
   "author": "Naveen Karippai",
   "license": "MIT",
   "dependencies": {

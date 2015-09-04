@@ -23,7 +23,9 @@ testRun.on('testserver',function(server) {
 testRun.on('downloadprogress',function(progress){
 
 	if(process.argv[2] == 'download' || process.argv[2] == '-d'){
+
     	progressIndicate('Download Speed ',progress);
+
     }
     else if(process.argv[2] == 'upload' || process.argv[2] == '-u'){
     	//
@@ -32,7 +34,9 @@ testRun.on('downloadprogress',function(progress){
     	//
     }
     else{
+
     	progressIndicate('Download Speed ',progress);
+
     }
 
 });
@@ -46,13 +50,17 @@ testRun.on('uploadprogress',function(progress){
     	//
     }
     else if(process.argv[2] == 'upload' || process.argv[2] == '-u'){
+
     	progressIndicate('Upload Speed ',progress);
+
     }
     else if(process.argv[2] == '-ip'){
     	//
     }
     else{
+
     	progressIndicate('Upload Speed ',progress);
+    	
     }
 
 });
