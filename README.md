@@ -31,3 +31,9 @@ $ npm init
 
 ![](https://github.com/NaveenKarippai/net-speed-checker/blob/master/netspeedchecker.png)
 ![](https://github.com/NaveenKarippai/net-speed-checker/blob/master/netspeedchecker2.png)
+
+### Uninstall on Terminal (CLI)
+
+```
+$ npm uninstall -g netspeedchecker
+```
