@@ -2,7 +2,7 @@
 
 Node module to check speed of internet connection, IP address, ISP and Ping time
 
-### Install on Terminal (CLI)
+### Install 
 
 ```
 $ npm install -g netspeedchecker
@@ -32,7 +32,7 @@ $ npm init
 ![](https://github.com/NaveenKarippai/net-speed-checker/blob/master/netspeedchecker.png)
 ![](https://github.com/NaveenKarippai/net-speed-checker/blob/master/netspeedchecker2.png)
 
-### Uninstall on Terminal (CLI)
+### Uninstall 
 
 ```
 $ npm uninstall -g netspeedchecker
