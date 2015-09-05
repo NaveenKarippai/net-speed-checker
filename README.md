@@ -34,7 +34,7 @@ $ npm init
 
 ### Useful Resources
 
-[npm](https://docs.npmjs.com/developers)
+[npm docs](https://docs.npmjs.com/developers)
 
 ### Uninstall 
 
