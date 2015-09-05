@@ -32,6 +32,10 @@ $ npm init
 ![](https://github.com/NaveenKarippai/net-speed-checker/blob/master/netspeedchecker.png)
 ![](https://github.com/NaveenKarippai/net-speed-checker/blob/master/netspeedchecker2.png)
 
+### Useful Resources
+
+[npm](https://docs.npmjs.com/developers)
+
 ### Uninstall 
 
 ```
