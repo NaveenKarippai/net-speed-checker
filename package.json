@@ -1,6 +1,6 @@
 {
   "name": "netspeedchecker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "check internet connection speed, IP address, ISP and Ping time",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,18 @@
     "internetspeedtest",
     "netspeedchecker",
     "speedtest",
-    "netspeedometer"
+    "netspeedometer",
+    "check",
+    "bandwidth",
+    "ping",
+    "internet",
+    "speed",
+    "speed-test",
+    "connection",
+    "speedtest-net",
+    "speedometer",
+    "IPaddress",
+    "ISP"
   ],
   "repository" :
   { "type" : "git",
